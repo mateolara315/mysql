@@ -328,3 +328,128 @@ Version: '10.1.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribut
 2018-02-22 22:29:06 17280 [Warning] IP address '111.67.201.141' could not be resolved: Éste es normalmente un error temporal durante la resolución de nombres de host y significa que el servidor local no recibió una respuesta de un servidor autoritativo. 
 2018-02-22 22:29:48 17280 [Warning] IP address '111.67.201.141' could not be resolved: Éste es normalmente un error temporal durante la resolución de nombres de host y significa que el servidor local no recibió una respuesta de un servidor autoritativo. 
 2018-02-22 23:01:09 13280 [Warning] IP address '61.158.163.93' has been resolved to the host name '93.163.158.61.ha.cnc', which resembles IPv4-address itself.
+2018-02-23  4:28:39 13280 [Warning] IP address '198.55.103.16' has been resolved to the host name '198.55.103.16.static.quadranet.com', which resembles IPv4-address itself.
+2018-02-23  7:33:29 13280 [Warning] IP address '58.218.200.13' could not be resolved: Host desconocido. 
+2018-02-23  7:44:40 13280 [Warning] IP address '61.158.163.93' has been resolved to the host name '93.163.158.61.ha.cnc', which resembles IPv4-address itself.
+2018-02-23  8:08:06 13280 [Warning] IP address '115.221.120.94' could not be resolved: Host desconocido. 
+2018-02-23 12:08:49 13280 [Warning] IP address '61.158.163.93' has been resolved to the host name '93.163.158.61.ha.cnc', which resembles IPv4-address itself.
+2018-02-23 12:14:26 13280 [Warning] IP address '196.52.43.86' could not be resolved: Host desconocido. 
+2018-02-23 13:35:38 13280 [Warning] IP address '111.67.201.141' could not be resolved: Éste es normalmente un error temporal durante la resolución de nombres de host y significa que el servidor local no recibió una respuesta de un servidor autoritativo. 
+2018-02-23 13:35:49 13280 [Warning] IP address '111.67.201.141' could not be resolved: Éste es normalmente un error temporal durante la resolución de nombres de host y significa que el servidor local no recibió una respuesta de un servidor autoritativo. 
+2018-02-23 13:35:51 12056 [Warning] IP address '111.67.201.141' could not be resolved: Éste es normalmente un error temporal durante la resolución de nombres de host y significa que el servidor local no recibió una respuesta de un servidor autoritativo. 
+2018-02-23 15:50:13 13280 [Warning] IP address '61.158.163.214' has been resolved to the host name '214.163.158.61.ha.cnc', which resembles IPv4-address itself.
+2018-02-23 16:24:17 13280 [Warning] IP address '61.158.163.93' has been resolved to the host name '93.163.158.61.ha.cnc', which resembles IPv4-address itself.
+2018-02-23 17:35:08 13280 [Warning] IP address '111.67.192.96' could not be resolved: Éste es normalmente un error temporal durante la resolución de nombres de host y significa que el servidor local no recibió una respuesta de un servidor autoritativo. 
+2018-02-23 21:25:01 13280 [Warning] IP address '61.158.163.93' has been resolved to the host name '93.163.158.61.ha.cnc', which resembles IPv4-address itself.
+2018-02-24 08:38:16 b20 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-02-24  8:38:16 2848 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-02-24  8:38:16 2848 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-02-24  8:38:16 2848 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-02-24  8:38:16 2848 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-02-24  8:38:16 2848 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-02-24  8:38:16 2848 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-02-24  8:38:16 2848 [Note] InnoDB: Using generic crc32 instructions
+2018-02-24  8:38:16 2848 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-02-24  8:38:16 2848 [Note] InnoDB: Completed initialization of buffer pool
+2018-02-24  8:38:16 2848 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-02-24  8:38:16 2848 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 2262232 in the ib_logfiles!
+2018-02-24  8:38:17 2848 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-02-24  8:38:18 2848 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-02-24  8:38:18 2848 [Note] InnoDB: Waiting for purge to start
+2018-02-24  8:38:18 2848 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-82.2 started; log sequence number 2262232
+2018-02-24  8:38:18 9068 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-02-24  8:38:18 2848 [Note] Plugin 'FEEDBACK' is disabled.
+2018-02-24  8:38:18 2848 [Note] Server socket created on IP: '::'.
+2018-02-24  8:38:19 2848 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-02-24  9:13:21 9644 [Warning] IP address '60.165.208.28' has been resolved to the host name '28.208.165.60.dail.dx.gs.dynamic.163data.com.cn', which resembles IPv4-address itself.
+2018-02-24  9:36:19 9644 [Warning] IP address '58.215.65.231' could not be resolved: Host desconocido. 
+2018-02-24 10:04:31 9644 [Warning] IP address '104.254.90.83' could not be resolved: Host desconocido. 
+2018-02-24 12:13:16 9644 [Warning] IP address '61.158.163.93' has been resolved to the host name '93.163.158.61.ha.cnc', which resembles IPv4-address itself.
+2018-02-24 14:03:11 9644 [Warning] IP address '196.52.43.109' could not be resolved: Host desconocido. 
+2018-02-24 14:19:44 9644 [Warning] IP address '58.215.225.174' could not be resolved: Host desconocido. 
+2018-02-24 14:44:10 9644 [Warning] IP address '115.231.218.80' could not be resolved: Host desconocido. 
+2018-02-24 16:24:37 9644 [Warning] IP address '61.158.163.93' has been resolved to the host name '93.163.158.61.ha.cnc', which resembles IPv4-address itself.
+2018-02-24 17:05:41 9644 [Warning] Host name 'hongkong.ipcname.com' could not be resolved: Host desconocido. 
+2018-02-24 20:54:55 9644 [Warning] IP address '61.158.163.93' has been resolved to the host name '93.163.158.61.ha.cnc', which resembles IPv4-address itself.
+2018-02-25  1:08:22 9644 [Warning] IP address '61.158.163.93' has been resolved to the host name '93.163.158.61.ha.cnc', which resembles IPv4-address itself.
+2018-02-25  3:26:50 9644 [Warning] IP address '60.10.61.68' could not be resolved: El nombre solicitado es válido pero no se encontraron datos del tipo solicitado. 
+2018-02-25  4:54:40 9644 [Warning] IP address '123.249.4.12' could not be resolved: Host desconocido. 
+2018-02-25  5:07:27 9644 [Warning] IP address '111.67.201.141' could not be resolved: Éste es normalmente un error temporal durante la resolución de nombres de host y significa que el servidor local no recibió una respuesta de un servidor autoritativo. 
+2018-02-25  5:07:40 9644 [Warning] IP address '111.67.201.141' could not be resolved: Éste es normalmente un error temporal durante la resolución de nombres de host y significa que el servidor local no recibió una respuesta de un servidor autoritativo. 
+2018-02-25  5:07:40 10044 [Warning] IP address '111.67.201.141' could not be resolved: Éste es normalmente un error temporal durante la resolución de nombres de host y significa que el servidor local no recibió una respuesta de un servidor autoritativo. 
+2018-02-25  5:17:14 9644 [Warning] IP address '61.158.163.93' has been resolved to the host name '93.163.158.61.ha.cnc', which resembles IPv4-address itself.
+2018-02-25  5:20:36 9644 [Warning] IP address '23.225.163.149' could not be resolved: Host desconocido. 
+2018-02-25 11:37:33 9644 [Warning] IP address '61.147.112.11' could not be resolved: Host desconocido. 
+2018-02-25 11:48:08 9644 [Warning] IP address '221.229.204.118' could not be resolved: Host desconocido. 
+2018-02-25 12:34:55 9644 [Warning] IP address '196.52.43.119' could not be resolved: Host desconocido. 
+2018-02-25 12:42:50 9644 [Warning] IP address '221.229.166.125' could not be resolved: Host desconocido. 
+2018-02-25 13:59:53 8488 [Warning] Host name 'static-ip-cr19014718685.cable.net.co' could not be resolved: Host desconocido. 
+2018-02-25 13:59:53 7812 [Warning] Host name 'static-ip-cr19014718685.cable.net.co' could not be resolved: Host desconocido. 
+222000111888---000222---222555   111444:::000222:::000666   32209a7734c8   IIInnnnnnoooDDDBBB:::   WWWaaarrrnnniiinnnggg:::   UUUsssiiinnnggg   iiinnnnnnooodddbbb___aaaddddddiiitttiiiooonnnaaalll___mmmeeemmm___pppoooooolll___sssiiizzzeee   iiisss   DDDEEEPPPRRREEECCCAAATTTEEEDDD...   TTThhhiiisss   ooopptpitotni imoaoyn nb e  mrmeaamyyo  vbbeeed   rrieenmm oofvvueetddu  riienn   rffeuultteuuarrseee  srr,ee llteeoaagsseeetssh,,e  rtt oowggieettthhh eetrrh  eww iiottphht  ittohhnee   ioonppnttoiidoobnn_  uiisnnenn_oosddybbs___uumssaeel__lssoyycss __ammnaadll llwooicct  haa nntddh  eww iiIttnhhn  ottDhhBee'  sII nninnnootDDeBBr''nssa  lii nnmtteeemrronnraayll   ammleelmmooocrrayyt  oaarll.ll
+oocca2at0to1or8r.-.
+0
+22-021528 0-110482:--002225:- 021654  :1100428::000826 : [01N62o 4t10e04]6  2[I0Nn on[toNeDo]Bt :eI ]ni nnIonnDonBdo:bD _Bie:nm npiotndynb_o_fderbme_peet_mylp_itfsyrt_e_fear_lelgeio_srltii_tsahtlm_g aohlragisot rhbimet ehhnma  sch habasen egbnee dec nht aocn hglaeendgg aetcdoy   tlboee gclaaecugysa ecb yeo cfba euscsmaeau lsolef   bosufmf afslemlra  lbpluo fobflue frsf iepzroe o.pl o Iosnli  zoseri.dz eeIr.n   tIoonr  duoesrred  etbroa  ctukoso efu fsb,ea  cibknaoccfrkfeo,af sfie,n  cbirunefcafrseeera  sbpeuo fobflue fraf tep rol oeplao soatlt   ualpte  atlsoet a 2su0tpM  But.po
+  
+t2o0 M2B0.M
+B
+.
+
+222000111888---000222---222555   111444:::000222:::000666   111002864020804   [[[NNNooottteee]]]   IIInnnnnnoooDDDBBB:::   UUUsssiiinnnggg   mmmuuuttteeexxxeeesss   tttooo   rrreeefff   cccooouuunnnttt   bbbuuuffffffeeerrr   pppoooooolll   pppaaagggeeesss
+
+
+2018-02-25 14:02:06 12404 [Note] InnoDB: The In2n0o1DB 8m-e0m2o-r2y5  h1e4a:p0 2i:s0 6d i12s00a81b08l8-e 0d[2
+N-ot2e5]  1I4n:n0o2D:B0:6  T1h0e6 2I0n n[oNDoBt em]e mIonrnyo DhBe:a pT hies  IdninsoaDblBe dm
+emory heap is disabled
+2018-02-25 14:02:06 12404 [Note] InnoDB: Mutexes and rw_locks use Windows interloc2k0e18d- 0f2u-n2c5t io1n4s:
+02:20061 180-8002-82 5[ N1o4t:e0]2 :I0n6n o1D0B6:2 0M u[tNeoxtees]  aInndn orwD_Bl:o ckMust euxsees  Wainndd orwws_ lionctkesr luoscek eWdi nfduonwcst iion2nt0se1
+r8lo-c0k2e-d2 5f u1n4c:t0i2o:n0s6
+ 12404 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-02-25 14:02:06 10808 [Note] 2I0n1n8o-D0B2-:2 5_ m1m4_:l0f2e:n0c6e (1)0 6a2n0d  [_Nmomt_es]f eInncneo(D)B :a r_em mu_slefde nfco2er0( 1)m8 e-am0no2d-r2 y5_  mb1ma4_r:sr0fi2ee:nr0c
+6e (1)2 4a0r4e  [uNsoetde ]f orI nmneomDoBr:y  Cboamrprrieesrs
+ed tables use zlib 1.2.3
+2018-02-25 14:02:06 10808 [Note] InnoDB: Compressed t2a0b1l8e-s0 2u-s2e5  z1l4i:b0 21:.026. 31
+0620 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-02-25 14:02:06 12404 [Note] InnoDB: Using generic crc32 instructions
+2018-02-25 14:02:06 10808 [Note] InnoDB: Using generic crc322018 -i0n2s-t2r5u c1t4i:o0n2s:
+06 10620 [Note] InnoDB: Using generic crc32 instructions
+2018-02-25 14:02:06 12404 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-022-01285- 021-42:50 21:40:60 21:00860 81 2[4N04o te[]N oItnen]o DIBn:n oIDnBi:t iCaolmipzlientg2e 0db1 u8if-nf0ie2tr-i 2ap5lo io1zl4a,:t 0is2oi:nz0 e6o  f=1  0b16u62f.0f0 eM[
+Nrot ep]o oIln
+noDB: Initializing buffer pool, size = 16.0M
+2018-02-25 14:02:06 10808 [Note] InnoDB: Completed initialization of buffer pool
+2018-02-25 14:02:06 10620 [Note] InnoDB: Completed initialization of buffer pool
+22001188--0022--2255  1144::0022::0066  1100860208  [[EERRRROORR]]  IInnnnooDDBB::  CC::\\xxaammpppp\\mmyyssqqll\\ddaattaa\\iibbddaattaa11  ccaann''tt  bbee  ooppeenneedd  iinn  rreeaadd-w-wrirtiet em omdoed
+e
+2018-02-25 14:02:06 10808 [ERROR]2 01I8n-n0o2D-B2:5  T1h4e: 0s2y:s0t6e m1 0t6a2b0l e[sEpRaRcOeR ]m uIsntn obDeB :w rTihtea bslyes!t
+em tablespace must be writable!
+2018-02-25 14:02:06 10808 [2E0R1R8O-R0]2 -P2l5u g1i4n: 0'2I:n0n6o D1B0'6 2i0n i[tE RfRuOnRc]t iPolnu grient u'rInnendo DeBr'r oirn.i
+t function returned error.
+2018-02-25 14:02:06 10808 [ERROR2] 0P1l8u-g0i2n- 2'5I n1n4o:D0B2': 0r6e g1i0s6t2r0a t[iEoRnR OaRs]  aP lSuTgOiRnA G'EI nEnNoGDIBN'E  rfeagiilsetdra.t
+ion as a STORAGE ENGINE failed.
+2018-02-25 14:02:06 10620 [N2o0t1e8]- 0P2l-u2g5i n1 4':F0E2E:D0B6A C1K0'8 0i8s  d[iNsotaeb]l ePdl.u
+gin 'FEEDBACK' is disabled.
+2018-02-25 124018:-0022:-0265  1140:60220: 0[6E R1R0O8R0]8  U[nEkRnRoOwRn]/ uUnnsknuopwpn/ourntseudp psotrotreadg es teonrgaignee :e nIgninnoeD:B 
+InnoDB
+2018-02-25 14:02:06 10620 [ERROR] Aborting2
+0
+18-02-25 14:02:06 10808 [ERROR] Aborting
+
+2018-02-25 14:02:06 12404 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-02-25 14:02:06 12404 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 2262242 in the ib_logfiles!
+2018-02-25 14:02:07 12404 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-02-25 14:02:08 12404 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-02-25 14:02:08 12404 [Note] InnoDB: Waiting for purge to start
+2018-02-25 14:02:08 12404 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-82.2 started; log sequence number 2262242
+2018-02-25 14:02:08 10124 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-02-25 14:02:08 12404 [Note] Plugin 'FEEDBACK' is disabled.
+2018-02-25 14:02:08 12404 [Note] Server socket created on IP: '::'.
+2018-02-25 14:02:08 12404 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-02-25 14:04:38 12596 [Warning] IP address '23.225.163.149' could not be resolved: Host desconocido. 
+2018-02-25 14:32:20 12596 [Warning] IP address '61.158.163.93' has been resolved to the host name '93.163.158.61.ha.cnc', which resembles IPv4-address itself.
+2018-02-25 16:51:58 10648 [Warning] IP address '111.67.201.141' could not be resolved: Éste es normalmente un error temporal durante la resolución de nombres de host y significa que el servidor local no recibió una respuesta de un servidor autoritativo. 
+2018-02-25 16:52:08 8568 [Warning] IP address '111.67.201.141' could not be resolved: Éste es normalmente un error temporal durante la resolución de nombres de host y significa que el servidor local no recibió una respuesta de un servidor autoritativo. 
+2018-02-25 16:52:08 10648 [Warning] IP address '111.67.201.141' could not be resolved: Éste es normalmente un error temporal durante la resolución de nombres de host y significa que el servidor local no recibió una respuesta de un servidor autoritativo. 
+2018-02-25 18:01:54 10648 [Warning] IP address '61.158.163.93' has been resolved to the host name '93.163.158.61.ha.cnc', which resembles IPv4-address itself.
